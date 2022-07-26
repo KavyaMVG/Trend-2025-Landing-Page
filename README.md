@@ -1,6 +1,6 @@
 ![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML%20&%20CSS-blue?style=for-the-badge)
 ![Time taken](https://img.shields.io/badge/Time%20taken-01H%3A00M%3A00S-tomato?style=for-the-badge&logo=Clockify)
-[![Demo](https://img.shields.io/badge/See%20Demo-Visit-green?style=for-the-badge&logo=web)]([YourProjectLink](https://trend-2025-landing-page.vercel.app/))
+[![Demo](https://img.shields.io/badge/See%20Demo-Visit-green?style=for-the-badge&logo=web)](https://trend-2025-landing-page.vercel.app/)
 
 # Trend 2025 Landing page
 
@@ -35,4 +35,4 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug or to request a new feature, kindly open an issue [here](https://github.com/github-username/repo-name/issues/new).
+If you find a bug or to request a new feature, kindly open an issue [here](https://github.com/kavyamvg/Trend-2025-Landing-Page/issues/new).
