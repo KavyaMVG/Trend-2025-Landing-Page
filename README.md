@@ -1,12 +1,12 @@
 ![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML%20&%20CSS-blue?style=for-the-badge)
 ![Time taken](https://img.shields.io/badge/Time%20taken-01H%3A00M%3A00S-tomato?style=for-the-badge&logo=Clockify)
-[![Demo](https://img.shields.io/badge/See%20Demo-Visit-green?style=for-the-badge&logo=web)](YourProjectLink)
+[![Demo](https://img.shields.io/badge/See%20Demo-Visit-green?style=for-the-badge&logo=web)]([YourProjectLink](https://trend-2025-landing-page.vercel.app/))
 
 # Trend 2025 Landing page
 
 > Project 1
 
-A landing page designed using pure HTML & CSS.
+A landing page designed using pure HTML & CSS as part of assignment from ineuron.
 
 ### Skills Gained from this
 
